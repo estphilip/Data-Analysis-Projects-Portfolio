@@ -3,15 +3,15 @@
   A data-driven analysis of fashion inventory and sales patterns to help retail businesses reduce stockouts, avoid overstocking, and make smarter discounting decisions  built as part of the #30DaysOfDataWithAnnie challenge.
 
 ## Table of Contents
-## 1. [Project Overview](#1-project-overview)
-## 2. [Data Source](#2-data-source)
-## 3. [Key Metrics Tracked](#3-key-metrics-tracked)
-## 4. [Tools Used](#4-tools-used)
-## 5. [Data Cleaning & Preparation](#5-data-cleaning--preparation)
-## 6. [Exploratory Data Analysis](#6-exploratory-data-analysis)
-## 7. [Data Analysis (Stats)](#7-data-analysis-stats)
-## 8. [Results & Key Findings](#8-results--key-findings)
-## 9. [Recommendations & Limitations](#9-recommendations--limitations)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Key Metrics Tracked](#key-metrics-tracked)
+- [Tools Used](#tools-used)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis (Stats)](#data-analysis-stats)
+- [Results & Key Findings](#results--key-findings)
+- [Recommendations & Limitations](#recommendations--limitations)
 - [References](#references)
 - [Final Thoughts](#final-thoughts)
 
@@ -28,14 +28,13 @@ This project analyzes over 15,000 records from an Indian fashion retail dataset 
 
 ---
 
-## 2.  Data Source
+## Data Source
 
 The dataset consists of 15,000+ product-level entries from an Indian fashion retailer, including attributes like product type, color, material, pricing, and sales demographics (men, women, boys, girls,).
 
 ---
 
-## 3. 📊 Key Metrics Tracked
-
+##  Key Metrics Tracked 
 - 📦 Stock Flag (In Stock = 1, Out of Stock = 0, Unknown = -1)
 - 💰 Discount & Discount %
 - 🧍‍♀️ Demographic Target (Men, Women, Boys, Girls and Unisex wears)
@@ -46,7 +45,7 @@ The dataset consists of 15,000+ product-level entries from an Indian fashion ret
 
 ---
 
-## 4.  Tools Used
+## Tools Used
 
  
  - Excel - Initial cleaning, exploratory analysis
@@ -55,7 +54,7 @@ The dataset consists of 15,000+ product-level entries from an Indian fashion ret
 
 ---
 
-## 5.  Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 A 9-step approach was applied to ensure clean, analysis-ready data:
 
@@ -78,7 +77,8 @@ A 9-step approach was applied to ensure clean, analysis-ready data:
 
 ---
 
-## 6.  Exploratory Data Analysis [EDA](https://docs.google.com/document/d/1cb65roWMMQTtG-C_zpuJkPO6bwJiw_hlqvVwJfZ_MMU/edit?usp=sharing) 👈
+## Exploratory Data Analysis 
+[EDA](https://docs.google.com/document/d/1cb65roWMMQTtG-C_zpuJkPO6bwJiw_hlqvVwJfZ_MMU/edit?usp=sharing) 👈
 
  Visualized stock status across brands, product types, and demographics
  Identified top-selling and slow-moving items
@@ -87,7 +87,7 @@ A 9-step approach was applied to ensure clean, analysis-ready data:
 
 ---
 
-## 7. 📈 Data Analysis (Stats)
+## Data Analysis (Stats)
 
  Correlation Analysis: Strong positive correlation (r ≈ 0.77) between discount and price
  Linear Regression:
@@ -100,7 +100,7 @@ A 9-step approach was applied to ensure clean, analysis-ready data:
 
 ---
 
-## 8. ✅ Results & Key Findings
+##  Results & Key Findings
 
  - Items with large discounts tend to be high-priced, not necessarily fast-selling.
  - Discounts do not guarantee stock clearance segment-based strategies are more effective.
@@ -109,7 +109,7 @@ A 9-step approach was applied to ensure clean, analysis-ready data:
 
 ---
 
-## 9. 💡 Recommendations & Limitations
+##  Recommendations & Limitations
 
 ### Recommendations:
 
