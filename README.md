@@ -4,16 +4,16 @@ A data-driven analysis of fashion inventory and sales patterns to help retail bu
 
 ## Table of Contents
 
-### 1. [Project Overview](#1-project-overview)
-### 2. [Data Source](#2-data-source)
-### 3. [Key Metrics Tracked](#3-key-metrics-tracked)
-### 4. [Tools Used](#4-tools-used)
-### 5. [Data Cleaning & Preparation](#5-data-cleaning--preparation)
-### 6. [Exploratory Data Analysis](#6-exploratory-data-analysis)
-### 7. [Data Analysis (Stats)](#7-data-analysis-stats)
-### 8. [Results & Key Findings](#8-results--key-findings)
-### 9. [Recommendations & Limitations](#9-recommendations--limitations)
-### 10. [References](#10-references)
+## 1. [Project Overview](#1-project-overview)
+## 2. [Data Source](#2-data-source)
+## 3. [Key Metrics Tracked](#3-key-metrics-tracked)
+## 4. [Tools Used](#4-tools-used)
+## 5. [Data Cleaning & Preparation](#5-data-cleaning--preparation)
+## 6. [Exploratory Data Analysis](#6-exploratory-data-analysis)
+## 7. [Data Analysis (Stats)](#7-data-analysis-stats)
+## 8. [Results & Key Findings](#8-results--key-findings)
+## 9. [Recommendations & Limitations](#9-recommendations--limitations)
+## 10. [References](#10-references)
 - [Final Thoughts](#final-thoughts)
 
 ---
