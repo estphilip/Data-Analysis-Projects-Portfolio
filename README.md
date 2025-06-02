@@ -16,8 +16,6 @@ A data-driven analysis of fashion inventory and sales patterns to help retail bu
 ## 10. [References](#10-references)
 - [Final Thoughts](#final-thoughts)
 
----
-
 ## 1.  Project Overview
 
 This project analyzes over 15,000 records from an Indian fashion retail dataset to solve a real-world retail problem: how to ensure high-demand products stay in stock while avoiding excess stock of low-demand items.
