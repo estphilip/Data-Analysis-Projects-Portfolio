@@ -1,23 +1,22 @@
 #  Fashion Stock Flow & Trends Dashboard
 
-  
-A data-driven analysis of fashion inventory and sales patterns to help retail businesses reduce stockouts, avoid overstocking, and make smarter discounting decisions  built as part of the #30DaysOfDataWithAnnie challenge.
+  A data-driven analysis of fashion inventory and sales patterns to help retail businesses reduce stockouts, avoid overstocking, and make smarter discounting decisions  built as part of the #30DaysOfDataWithAnnie challenge.
 
 ## Table of Contents
-- ## 1. [Project Overview](#1-project-overview)
-- ## 2. [Data Source](#2-data-source)
-- ## 3. [Key Metrics Tracked](#3-key-metrics-tracked)
+## 1. [Project Overview](#1-project-overview)
+## 2. [Data Source](#2-data-source)
+## 3. [Key Metrics Tracked](#3-key-metrics-tracked)
 ## 4. [Tools Used](#4-tools-used)
 ## 5. [Data Cleaning & Preparation](#5-data-cleaning--preparation)
 ## 6. [Exploratory Data Analysis](#6-exploratory-data-analysis)
 ## 7. [Data Analysis (Stats)](#7-data-analysis-stats)
 ## 8. [Results & Key Findings](#8-results--key-findings)
 ## 9. [Recommendations & Limitations](#9-recommendations--limitations)
-## 10. [References](#10-references)
+- [References](#references)
 - [Final Thoughts](#final-thoughts)
 
 
-## 1.  Project Overview
+##   Project Overview
 
 This project analyzes over 15,000 records from an Indian fashion retail dataset to solve a real-world retail problem: how to ensure high-demand products stay in stock while avoiding excess stock of low-demand items.
 
@@ -126,7 +125,7 @@ A 9-step approach was applied to ensure clean, analysis-ready data:
 
 ---
 
-## 10. 📚 References
+##  References
 
  Original dataset (proprietary/simulated retail data for analysis purpose)
  \#30DaysOfDataWithAnnie Challenge Community
