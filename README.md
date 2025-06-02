@@ -1,6 +1,6 @@
 #  Fashion Stock Flow & Trends Dashboard
 
-  A data-driven analysis of fashion inventory and sales patterns to help retail businesses reduce stockouts, avoid overstocking, and make smarter discounting decisions  built as part of the #30DaysOfDataWithAnnie challenge.
+  #### A data-driven analysis of fashion inventory and sales patterns to help retail businesses reduce stockouts, avoid overstocking, and make smarter discounting decisions  built as part of the #30DaysOfDataWithAnnie challenge.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
